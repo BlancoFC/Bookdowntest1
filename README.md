@@ -21,7 +21,7 @@ This is a template for creating an [HTML GitBook style](https://bookdown.org/yih
 
 ### Edit some key files
 
-- [ ] 1. In `index.Rmd`, change YOUR TITLE HERE to your title. 
+- [ ] 1. In `index.Rmd`, change YOUR TITLE HERE to your title. ..
 
 - [ ] 2. In `index.Rmd`, change YOUR NAME HERE to your name.
 
